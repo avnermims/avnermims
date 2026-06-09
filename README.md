@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @avnermims
-- 👀 I’m interested in the sector of developing marketing tools solutions 
-- 🌱 I’m currently learning bsc of computer 
+- 👀 I’m interested to be an junior dev full stack NodeJS - React - tanStackQuery - mongo - Ts
+- 🌱 I’m currently finishing learning bsc of computer in tlv area
 - 💞️ I’m looking to collaborate on challenger projects.
 - 📫 How to reach me: mimouni.avner@gmail.com
 
